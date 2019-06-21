@@ -1,0 +1,26 @@
+{
+  "id": "7a68ffd7-6e76-4ca1-a5eb-8056afbf11f3",
+  "name": "ALProject4",
+  "publisher": "Nik",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://ALProject4.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
