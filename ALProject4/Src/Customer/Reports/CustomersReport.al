@@ -2,11 +2,11 @@ report 50001 CustomerReport
 {
     //UsageCategory = Administration;
     //DefaultLayout = Word;
-    RDLCLayout = 'Layout\CustomerListRDLC.rdl';
-    WordLayout = 'Layout\CustomerListWord.docx';
+    RDLCLayout = 'Src\Customer\Reports\Layout\CustomerListRDLC.rdl';
+    WordLayout = 'Src\Customer\Reports\Layout\CustomerListWord.docx';
     UsageCategory = ReportsAndAnalysis;
     ApplicationArea = All;
-    Caption = 'Customer Category List';
+    Caption = 'Customer List Report';
 
     dataset
     {
